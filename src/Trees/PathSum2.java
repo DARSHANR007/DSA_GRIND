@@ -24,7 +24,9 @@ public class PathSum2 {
 
     public List<List<Integer>> solution(Tree root, int target){
 
-        return new ArrayList<>();
+        helper(new ArrayList<>(), root, target);
+
+        return result;
     }
 
 
@@ -35,8 +37,13 @@ public class PathSum2 {
         }
         else{
             if(node.left!=null && target > 0){
-                helper(path, node, target-node.val);
-                path.add(node.val);
+                helper(path, node.left, target-node.left.val);
+                path.add(node.left.val);
+            }
+            if(node.right!=null && target >0){
+                path.remove(path.size()-1);
+                helper(path, node.right, target-node.right.val);
+                path.add(node.right.val);
             }
             
         }
