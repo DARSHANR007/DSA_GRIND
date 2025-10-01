@@ -22,11 +22,9 @@ public class networkDelay{
     }
 
 
-         
-
      List<List<Network>> paths=new ArrayList<>();
 
-    
+
      public int networkDelayTime(int[][] times, int n, int k) {
 
         // Initialize each node's list as null or empty list
