@@ -28,6 +28,9 @@ public class NumberofLongestSusbstrings {
             
                     continue;
                 }
+                else{
+                    dp[i]=1;
+                }
 
                     hash.put(dp[i], hash.getOrDefault(dp[i], 0)+1);
                     maxi=Math.max(maxi,dp[i]);
