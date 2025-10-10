@@ -29,7 +29,7 @@ public class RussianDollEnvelopes {
 
         for(int num:heights){
 
-            int index = lowerBound(dp,n+1,num);
+            int index = lowerBound(dp,len,num);
 
             dp[index]=num;
 
