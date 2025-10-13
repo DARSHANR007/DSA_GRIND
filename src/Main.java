@@ -1,45 +1,65 @@
-import java.util.*;
+import java.util.Scanner;
+import java.util.ArrayList;
 
 public class Main {
-    public static void main(String[] args) {
+    static Scanner sc = new Scanner(System.in);
 
-        Scanner sc= new Scanner(System.in);
-        int t = sc.nextInt();
+    public static void main(String[] args)
+    {
+        int test = sc.nextInt();
 
+        while (test >0) {
+            test--;
+            int n = sc.nextInt();
+            int[] result = new int[2 *n+1];
+            
+            ArrayList<Integer> groupA =new ArrayList<>();
+            ArrayList<Integer>groupB =new ArrayList<>();
 
-        while (t-->0) {
-            int n =sc.nextInt();
-
-
-
-            int[] rotate = new int[n];
-            for (int i =0;i<n;i++) {
-                rotate[i] = sc.nextInt();
-
-            }
-            int maxEat = 0;
-
-            for (int start = 0; start < n; start++) {
-                int[] dp =new int[n];
-                dp[start] =1;
-                for (int i= 1;i< n;i++) {
-
-                    int curr = (start + i) % n;
-
-                    for(int j =0;j< i;j++) {
-
-                        int prev = (start + j) % n;
-                        if (rotate[curr] > rotate[prev]){
-
-                            dp[curr] = Math.max(dp[curr], dp[prev] + 1);
-
-                        }
-                    }
-                    maxEat = Math.max(maxEat, dp[curr]);
+            for (int i = 1; i <=2*n;i++){
+                System.out.print("? "+(groupA.size()+ 1));
+                for (int num : groupA)
+                {
+                    System.out.print(" "+num);
                 }
-                maxEat = Math.max(maxEat, dp[start]);
+                System.out.println(" "+ i);
+
+                int curr = sc.nextInt();
+
+                if (curr==0)
+                {
+                    groupA.add(i);
+                }
+                else
+                {
+                    groupB.add(i);
+                    result[i]= curr;
+                }
             }
-            System.out.println(maxEat);
+
+            for (int num:groupA)
+            {
+                System.out.print("? " +(groupB.size() + 1));
+
+                for (int b:groupB)
+                {
+                    System.out.print(" "+ b);
+                }
+                System.out.println(" "+ num);
+
+                int curr =sc.nextInt();
+                result[num] =curr;
+            }
+            System.out.print("! ");
+            for (int i = 1; i <= 2* n; i++)
+            {
+                if (i > 1)
+                {
+                    System.out.print(" ");
+                }
+                System.out.print(result[i]);
+            }
+            System.out.println();
         }
     }
 }
