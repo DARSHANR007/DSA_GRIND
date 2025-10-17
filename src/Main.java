@@ -1,64 +1,72 @@
 import java.util.*;
 
 public class Main {
-    public static String solve(String str) {
-        class Palindrome {
-            static boolean check(String s) {
-                if (s.isEmpty())return true;
-                int i = 0;
-                int j =s.length() -1;
-                while (i < j)
-                {
-                    if (s.charAt(i)!=s.charAt(j)) return false;
-                    i++;
-                    j--;
-                }
-                return true;
-            }
+
+    public static String solve(String str)
+    {
+        int n=str.length();
+
+        boolean[][] pal=new boolean[n][n];
+
+        for(int i=0;i<n;i++){
+            pal[i][i]=true;
         }
 
-        class Remove
-        { static String removecurrent(String s, char c) {
-                StringBuilder sb =new StringBuilder();
+        for(int l=2;l<=n;l++){
 
-                for(char ch :s.toCharArray()) {
-                    if (ch != c) sb.append(ch);
+            for(int i=0;i<=n-l;i++){
+
+                int j=i+l-1;
+
+                if(str.charAt(i)==str.charAt(j)){
+                    pal[i][j]=(l==2)||pal[i+1][j-1];
                 }
-                
-                
-                return sb.toString();
             }
         }
+        int[] zero=new int[n+1];
+        int[] one=new int[n+1];
+
+        for(int i=0;i<n;i++){
 
 
+            zero[i+1]=zero[i]+(str.charAt(i)=='0'?1:0);
 
-        class Extract{ static String otherchars(String s, char c) {
-                StringBuilder sb = new StringBuilder();
-                for (char ch:s.toCharArray()) {
-                    if (ch ==c) sb.append(c);
-                }
-                return sb.toString();
-            }
+            one[i+1]=one[i]+(str.charAt(i)=='1'?1:0);
         }
 
+        for(int i=0;i<n;i++){
+            for(int j=i;j < n;j++){
+                if(pal[i][j]){
 
-        if (Palindrome.check(str))return "";
-        String oneonly =Remove.removecurrent(str,'0');
-        if (Palindrome.check(oneonly))
-            return Extract.otherchars(str,'0');
-        String zeronly= Remove.removecurrent(str, '1');
+                    int z=zero[i]+(zero[n] - zero[j+1]);
+                    int o=one[i]+(one[n]-one[j+1]);
 
-        if (Palindrome.check(zeronly))
-            return Extract.otherchars(str, '1');
+                    if(z<=o){
+
+                        StringBuilder res= new StringBuilder();
+
+                        for(int k=0;k<z;k++){res.append('0');
+                        }
+
+                        for(int k=0;k<o;k++){
+
+                            res.append('1');
+                        }
+                        return res.toString();
+                    }
+                }
+            }
+        }
 
         return str;
     }
-    
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int t = sc.nextInt();
-        while (t--> 0){
-            String s = sc.next();
+
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+
+        while(t-->0){
+            String s=sc.next();
             System.out.println(solve(s));
         }
     }
