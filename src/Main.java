@@ -1,62 +1,39 @@
-import java.util.*;
-public class Main{
-    public static void main(String[] args){
-        
-        Scanner sc=new Scanner(System.in);
+import java.util.Scanner;
 
-        int t=sc.nextInt();
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc  =  new Scanner(System.in);
+        int tests = sc.nextInt();
 
-        while(t-->0){
-            int n=sc.nextInt();
-            String str=sc.next();
+        while (tests--> 0)
 
+        {
+            int size  =sc.nextInt();
+            System.out.println("? " + 2 + " "+ 1+ " " + size);
+            int xxx=sc.nextInt();
 
-            int count=0;
+            int xoradd = size *(size + 1)/2;
 
-            int upto=1;
-
-            boolean correct=true;
-
-
-            for(int i=0;i<n;i++) upto*=2;
-
-
-            for(int k=0; k<upto; k++)
+            int diff =xxx -xoradd;
+            int low= size;
+            while (low >0)
             {
-                char[] arr = new char[n];
+                int middle =low -(low - 1) / 2;
+                System.out.println("? " + 1 + " " + 1 + " " + middle);
+                int current=sc.nextInt();
 
-                Arrays.fill(arr,'0');
-
-                for(int i = 0; i < n; i++){
-
-                    if((k&(1<<i))!=0){
-                        if(arr[i] =='0')
-                        {
-                            arr[i] = 'x';
-                        }
-                    }
+                if (current<= diff +middle) {
+                    low =middle;
+                } else {
+                    low =middle- 1;
                 }
 
-                for(int i=1;i<(n>>1);i++)
-                {
-                    if(arr[i-1]=='x' && arr[n-i-1]=='x'){
-                        correct=false;
-                        break;
-                    }
-                }
-                if(!correct) continue;
-                for(int i=0;i<(n>>1);i++)
-                {
-                    if(arr[i]=='x'){
-                        arr[i]=str.charAt(i);
-                    }
-                }
-                count=0;
-                for(char c:arr) {
-                    if(c!='0') count++;
-                }
-                System.out.println(count);
             }
+            
+            int temp = low | diff;
+            int answer = temp + low - 1;
+            System.out.println("! " +answer);
         }
+
     }
 }
