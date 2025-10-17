@@ -1,51 +1,62 @@
-import java.util.Scanner;
-
+import java.util.*;
 public class Main{
     public static void main(String[] args){
-        Scanner s=new Scanner(System.in);
-        int t=s.nextInt();
-        while(t-->0)
-        {
-            long n=s.nextLong();
-            long m=s.nextLong();
+        
+        Scanner sc=new Scanner(System.in);
 
-            if(n==m){
-                System.out.println(0);
-                continue;
-            }
+        int t=sc.nextInt();
 
-            int i=0;
+        while(t-->0){
+            int n=sc.nextInt();
+            String str=sc.next();
 
-            long change=n;
 
-            while((1L<<i)<=change)i++;
-            i--;
+            int count=0;
 
-            long full = 0;
+            int upto=1;
 
-            for(int j=0;j<= i;j++) {
-                full|=(1L<<j);
-            }
+            boolean correct=true;
 
-            if(m>full){
-                System.out.println(-1);
-            }
-            else{
 
-                long xorres=n^m;
+            for(int i=0;i<n;i++) upto*=2;
 
-                if(xorres<=n)
 
+            for(int k=0; k<upto; k++)
+            {
+                char[] arr = new char[n];
+
+                Arrays.fill(arr,'0');
+
+                for(int i = 0; i < n; i++){
+
+                    if((k&(1<<i))!=0){
+                        if(arr[i] =='0')
+                        {
+                            arr[i] = 'x';
+                        }
+                    }
+                }
+
+                for(int i=1;i<(n>>1);i++)
                 {
-                    System.out.println(1);
-                    System.out.println(xorres);
+                    if(arr[i-1]=='x' && arr[n-i-1]=='x'){
+                        correct=false;
+                        break;
+                    }
                 }
-                else{
-                    System.out.println(2);
-                    System.out.println((full^n)+" "+(full^m));
+                if(!correct) continue;
+                for(int i=0;i<(n>>1);i++)
+                {
+                    if(arr[i]=='x'){
+                        arr[i]=str.charAt(i);
+                    }
                 }
+                count=0;
+                for(char c:arr) {
+                    if(c!='0') count++;
+                }
+                System.out.println(count);
             }
         }
-
     }
 }
