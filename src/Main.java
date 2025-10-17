@@ -1,65 +1,65 @@
-import java.util.Scanner;
-import java.util.ArrayList;
+import java.util.*;
 
 public class Main {
-    static Scanner sc = new Scanner(System.in);
-
-    public static void main(String[] args)
-    {
-        int test = sc.nextInt();
-
-        while (test >0) {
-            test--;
-            int n = sc.nextInt();
-            int[] result = new int[2 *n+1];
-            
-            ArrayList<Integer> groupA =new ArrayList<>();
-            ArrayList<Integer>groupB =new ArrayList<>();
-
-            for (int i = 1; i <=2*n;i++){
-                System.out.print("? "+(groupA.size()+ 1));
-                for (int num : groupA)
+    public static String solve(String str) {
+        class Palindrome {
+            static boolean check(String s) {
+                if (s.isEmpty())return true;
+                int i = 0;
+                int j =s.length() -1;
+                while (i < j)
                 {
-                    System.out.print(" "+num);
+                    if (s.charAt(i)!=s.charAt(j)) return false;
+                    i++;
+                    j--;
                 }
-                System.out.println(" "+ i);
-
-                int curr = sc.nextInt();
-
-                if (curr==0)
-                {
-                    groupA.add(i);
-                }
-                else
-                {
-                    groupB.add(i);
-                    result[i]= curr;
-                }
+                return true;
             }
+        }
 
-            for (int num:groupA)
-            {
-                System.out.print("? " +(groupB.size() + 1));
+        class Remove
+        { static String removecurrent(String s, char c) {
+                StringBuilder sb =new StringBuilder();
 
-                for (int b:groupB)
-                {
-                    System.out.print(" "+ b);
+                for(char ch :s.toCharArray()) {
+                    if (ch != c) sb.append(ch);
                 }
-                System.out.println(" "+ num);
+                
+                
+                return sb.toString();
+            }
+        }
 
-                int curr =sc.nextInt();
-                result[num] =curr;
-            }
-            System.out.print("! ");
-            for (int i = 1; i <= 2* n; i++)
-            {
-                if (i > 1)
-                {
-                    System.out.print(" ");
+
+
+        class Extract{ static String otherchars(String s, char c) {
+                StringBuilder sb = new StringBuilder();
+                for (char ch:s.toCharArray()) {
+                    if (ch ==c) sb.append(c);
                 }
-                System.out.print(result[i]);
+                return sb.toString();
             }
-            System.out.println();
+        }
+
+
+        if (Palindrome.check(str))return "";
+        String oneonly =Remove.removecurrent(str,'0');
+        if (Palindrome.check(oneonly))
+            return Extract.otherchars(str,'0');
+        String zeronly= Remove.removecurrent(str, '1');
+
+        if (Palindrome.check(zeronly))
+            return Extract.otherchars(str, '1');
+
+        return str;
+    }
+    
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+        while (t--> 0){
+            String s = sc.next();
+            System.out.println(solve(s));
         }
     }
 }
