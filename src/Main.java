@@ -1,38 +1,51 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
-    public static void main(String[] args) {
-        Scanner sc  =  new Scanner(System.in);
-        int tests = sc.nextInt();
+    public static void main(String[] args)
+    
+    
+    {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
 
-        while (tests--> 0)
-
+        while(t--> 0) 
+        
         {
-            int size  =sc.nextInt();
-            System.out.println("? " + 2 + " "+ 1+ " " + size);
-            int xxx=sc.nextInt();
+            int n = sc.nextInt();
+            long[] a = new long[n];
+            for(int i = 0; i < n; i++)
+                a[i] = sc.nextLong();
 
-            int xoradd = size *(size + 1)/2;
+            long[] dp =new long[n];
+            dp[0] = 0;
 
-            int diff =xxx -xoradd;
-            int low= size;
-            while (low >0)
-            {
-                int middle =low -(low - 1) / 2;
-                System.out.println("? " + 1 + " " + 1 + " " + middle);
-                int current=sc.nextInt();
+            for(int i = 1; i < n; i++) {
+                dp[i] =Long.MAX_VALUE;
+                long maxi = 0;
+                for(int j =0;j <i; j++)
+                    maxi =Math.max(maxi,a[j]);
 
-                if (current<= diff +middle) {
-                    low =middle;
-                } else {
-                    low =middle- 1;
+                Set<Long> arr = new HashSet<>();
+                arr.add(a[i]);
+                for(int j = 0; j < i;j++)
+                    arr.add(a[j]);
+
+                for(Long val : arr) {
+                    long cost = Math.max(0, val- a[i]);
+                    boolean check =true;
+                    if(i % 2 == 1) {
+                        if(val <=maxi)
+                            check =false;
+                    } else {
+                        if(val >=maxi)
+                            check =false;
+                    }
+                    if(check)
+                        dp[i] = Math.min(dp[i], dp[i-1] + cost);
                 }
-
             }
-            
-            int temp = low | diff;
-            int answer = temp + low - 1;
-            System.out.println("! " +answer);
+
+            System.out.println(dp[n-1]);
         }
 
     }
