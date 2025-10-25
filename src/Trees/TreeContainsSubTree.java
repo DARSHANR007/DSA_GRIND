@@ -20,18 +20,18 @@ public class TreeContainsSubTree {
     public boolean check(Tree root1, Tree root2){
 
 
-        return false;
+        return helper(root1,root2);
     }
 
 
     public boolean helper(Tree node1, Tree node2){
 
-        if(node1.val != node2.val) {
+      if(node2==null) return  true;
+
+      if(node1==null && node2!=null) return false;
 
 
-            helper(node1.left,node2.left);
-            helper(node1.right,node2.right);
-        }
+      return  node2.val== node1.val && helper(node1.left,node2.left)&& helper(node2.right,node1.right);
 
 
     }
