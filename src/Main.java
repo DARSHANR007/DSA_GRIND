@@ -1,66 +1,103 @@
 import java.util.*;
-
-public class Main {
+public class Main{
     public static void main(String[] args)
 
+
     {
-        Scanner in = new Scanner(System.in);
+        Scanner sc=new Scanner(System.in);
+        run(sc);
+    }
 
 
 
-        int tests =in.nextInt();
+    static void run(Scanner sc)
 
-        while (tests-- >0)
+    {
+        int maxi=500;
+
+
+        boolean[] flag=new boolean[maxi+1];
+
+        Arrays.fill(flag,true);
+
+        flag[0]=false;
+        flag[1]=false;
+
+
+        List<Integer> primenum=new ArrayList<>();
+
+
+
+        for(int i=2;i<=maxi;i++)
 
         {
-            int n = in.nextInt();
-            int k = in.nextInt();
-
-            int[] count = new int[n + 1];
+            if(flag[i]){
+                primenum.add(i);
 
 
-            for (int i= 0;i < n; i++)
-
-            {
-
-                int x=in.nextInt();
-                count[x]++;
-            }
-
-            int[] prefix = new int[n + 1];
-
-            int i=0;
-
-            for ( i =1;i<=n; i++)
-
-            {
-                prefix[i] =prefix[i -1]+count[i];
-            }
-
-            int result =1;
-
-
-            for (int g =n;g>=1;g--)
-
-            {
-                int end =Math.min(n,(g << 2) - 1);
-                int total =prefix[end];
-
-                int multi = 0;
-                int val = g;
-                for (int mult = 1; mult <= 3 && val <= n; mult++, val += g)
+                for(long j=(long)i*i;j<=maxi;j+=i)
 
                 {
-                    multi +=count[val];
+                    flag[(int)j]=false;
+                }
+            }
+        }
+        
+        
+        int t=sc.nextInt();
+
+        while(t-->0){
+
+
+            int n=sc.nextInt();
+            long g=0;
+
+
+            for(int i=0;i<n;i++){
+
+                long x=sc.nextLong();
+                if(i!=0)
+
+                {
+
+                    g=gcdhelper(g,x);
+
                 }
 
-                if (total -multi <= k) {
-                    result = g;
+
+                else if(i==0){
+
+                    g=x;
+
+
+                }
+            }
+            boolean done=false;
+
+            for(int p:primenum)
+
+            {
+                if(g%p!=0){
+                    System.out.println(p);
+
+                    done=true;
                     break;
                 }
             }
 
-            System.out.println(result);
+
+            if(!done)System.out.println(-1);
         }
+    }
+
+
+
+    static long gcdhelper(long a,long b){
+        while(b!=0){
+            long tmp=b;
+            b=a%b;
+            a=tmp;
+        }
+        return a;
     }
 }
