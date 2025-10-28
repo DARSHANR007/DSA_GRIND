@@ -11,12 +11,37 @@ public class checkifpathexists {
 
         for(int i=0;i<n;i++){
 
-            list[i].ad
+            list.add(new ArrayList<>());
 
         }
 
+        for(int [] edge:edges){
+            int u=edge[0];
+            int v=edge[1];
 
-        return false;
+            list.get(u).add(v);
+            list.get(v).add(u);
+        }
 
+        boolean[] visited=new boolean[n];
+
+        dfs(list,visited,source);
+
+
+
+
+        return visited[destination];
+
+    }
+
+    public  void dfs(List<List<Integer>> list, boolean [] visited,int node){
+
+        visited[node]=true;
+
+        for(int neighbour:list.get(node)){
+            if(!visited[neighbour]){
+                dfs(list,visited,neighbour);
+            }
+        }
     }
 }
