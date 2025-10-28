@@ -13,7 +13,7 @@ public class lc1557 {
 
         List<Integer> res=new ArrayList<>();
 
-
+    
         for(int i=0;i<n;i++){
 
             int sending=edges.get(i).get(0);
