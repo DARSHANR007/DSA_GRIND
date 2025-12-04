@@ -31,4 +31,24 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0076-minimum-window-substring) |
+## Depth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0743-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0743-network-delay-time) |
+## Graph
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
