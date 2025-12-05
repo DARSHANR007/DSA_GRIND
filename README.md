@@ -46,6 +46,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0743-network-delay-time](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1615-maximal-network-rank](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1615-maximal-network-rank) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
