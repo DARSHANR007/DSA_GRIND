@@ -1,57 +1,50 @@
 class Solution {
-   
-     public int swimInWater(int[][] grid) {
+    public int swimInWater(int[][] grid) {
+        int n = grid.length;
+        int low = Math.max(grid[0][0], grid[n-1][n-1]);
+        int high = n * n - 1;
 
-        int time=0;
+        int[][] dirs = {{1,0},{-1,0},{0,1},{0,-1}};
 
-        int m=grid.length;
-        
-        int n=grid.length;
+        while (low < high) {
+            int mid = (low + high) / 2;
 
-        PriorityQueue<int[]> pq=new PriorityQueue<>(Comparator.comparingInt(a ->a[0]));
-
-        pq.add(new int[]{grid[0][0],0,0});
-
-        boolean [][] visited=new boolean[m][n];
-
-        visited[0][0]=true;
-
-
-        int[][] directions={{0,1},{1,0},{-1,0},{0,-1}};
-
-
-        while (!pq.isEmpty()) {
-
-            int []arr= pq.poll();
-
-            int cur=arr[0];
-            int x=arr[1];
-            int y=arr[2];
-
-            time=Math.max(time,cur);
-
-            if ( x==m-1 && y==n-1) return time;
-
-            for(int[] direction:directions){
-                int nr =x+direction[0];
-                int nc=y+ direction[1];
-
-                if( nr >=0 && nr < m && nc >=0 && nc<n && !visited[nr][nc]){
-                    visited[nr][nc]=true;
-                    pq.add(new int[]{grid[nr][nc],nr,nc});
-
-                }
-
+            if (canReach(grid, mid, dirs)) {
+                high = mid; // can reach → try lower time
+            } else {
+                low = mid + 1; // cannot reach → raise water level
             }
-            
         }
+        return low;
+    }
 
+    private boolean canReach(int[][] grid, int t, int[][] dirs) {
+        int n = grid.length;
+        if (grid[0][0] > t) return false;
 
+        boolean[][] visited = new boolean[n][n];
+        Queue<int[]> q = new LinkedList<>();
+        q.add(new int[]{0, 0});
+        visited[0][0] = true;
 
-    
+        while (!q.isEmpty()) {
+            int[] cur = q.poll();
+            int x = cur[0], y = cur[1];
 
+            if (x == n - 1 && y == n - 1) return true;
 
-        return time;
-        
+            for (int[] d : dirs) {
+                int nx = x + d[0];
+                int ny = y + d[1];
+
+                if (nx >= 0 && nx < n && ny >= 0 && ny < n &&
+                    !visited[nx][ny] && grid[nx][ny] <= t) {
+
+                    visited[nx][ny] = true;
+                    q.add(new int[]{nx, ny});
+                }
+            }
+        }
+        return false;
     }
 }
