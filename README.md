@@ -27,6 +27,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0076-minimum-window-substring) |
 | [0132-palindrome-partitioning-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0132-palindrome-partitioning-ii) |
 ## Sliding Window
@@ -109,9 +110,14 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0043-multiply-strings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 ## Geometry
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
