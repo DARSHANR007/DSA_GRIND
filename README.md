@@ -37,12 +37,14 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0101-symmetric-tree) |
 | [0743-network-delay-time](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0778-swim-in-rising-water) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0101-symmetric-tree) |
 | [0743-network-delay-time](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0778-swim-in-rising-water) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
@@ -120,4 +122,12 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0043-multiply-strings) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
