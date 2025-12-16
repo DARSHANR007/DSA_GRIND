@@ -133,6 +133,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [0101-symmetric-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0700-search-in-a-binary-search-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0700-search-in-a-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -141,6 +142,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [0101-symmetric-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0700-search-in-a-binary-search-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0700-search-in-a-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -148,4 +150,8 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0988-smallest-string-starting-from-leaf](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0988-smallest-string-starting-from-leaf) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
