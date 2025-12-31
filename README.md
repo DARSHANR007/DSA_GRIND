@@ -47,6 +47,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
@@ -57,6 +58,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0778-swim-in-rising-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0778-swim-in-rising-water) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 ## Graph
 |  |
@@ -87,6 +89,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0997-find-the-town-judge](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0997-find-the-town-judge) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2054-two-best-non-overlapping-events) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Search
@@ -95,6 +98,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
 | [0778-swim-in-rising-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0778-swim-in-rising-water) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2054-two-best-non-overlapping-events) |
 ## Dynamic Programming
 |  |
@@ -127,11 +131,13 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0778-swim-in-rising-water) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0778-swim-in-rising-water) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Math
 |  |
 | ------- |
