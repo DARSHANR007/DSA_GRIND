@@ -83,6 +83,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
+| [0066-plus-one](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0066-plus-one) |
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
 | [0517-super-washing-machines](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0517-super-washing-machines) |
 | [0778-swim-in-rising-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0778-swim-in-rising-water) |
@@ -143,6 +144,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0066-plus-one) |
 | [0458-poor-pigs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0458-poor-pigs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 ## Geometry
