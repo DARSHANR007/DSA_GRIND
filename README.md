@@ -92,6 +92,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0997-find-the-town-judge) |
+| [1390-four-divisors](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1390-four-divisors) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -155,6 +156,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0043-multiply-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0066-plus-one) |
 | [0458-poor-pigs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0458-poor-pigs) |
+| [1390-four-divisors](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1390-four-divisors) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 ## Geometry
 |  |
