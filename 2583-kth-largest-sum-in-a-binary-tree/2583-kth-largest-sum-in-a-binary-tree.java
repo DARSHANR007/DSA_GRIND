@@ -1,34 +1,53 @@
+import java.util.*;
+
+class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+    TreeNode(int val) { this.val = val; }
+    TreeNode(int val, TreeNode left, TreeNode right) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
+    }
+}
+
 class Solution {
     public long kthLargestLevelSum(TreeNode root, int k) {
+        List<Long> levelSums = new ArrayList<>();
 
-        if (root == null) return -1;
+        if (root == null)
+            return -1;
 
         Queue<TreeNode> q = new LinkedList<>();
-        PriorityQueue<Long> pq = new PriorityQueue<>();
-
         q.offer(root);
 
+        int currentLevel = 1;
         while (!q.isEmpty()) {
-            int size = q.size();
             long levelSum = 0;
 
-            for (int i = 0; i < size; i++) {
+            int pending = q.size();
+            for (int i = 0; i < pending; i++) {
                 TreeNode node = q.poll();
+
                 levelSum += node.val;
 
-                if (node.left != null) q.offer(node.left);
-                if (node.right != null) q.offer(node.right);
+                if (node.left != null)
+                    q.offer(node.left);
+                if (node.right != null)
+                    q.offer(node.right);
             }
 
-            pq.offer(levelSum);
+            levelSums.add(levelSum);
 
-            if (pq.size() > k) {
-                pq.poll();
-            }
+            currentLevel++;
         }
 
-        if (pq.size() < k) return -1;
+        if (levelSums.size() < k)
+            return -1;
 
-        return pq.peek();
+        Collections.sort(levelSums, Collections.reverseOrder());
+
+        return levelSums.get(k - 1);
     }
 }
