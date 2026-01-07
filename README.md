@@ -29,6 +29,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0043-multiply-strings) |
+| [0072-edit-distance](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0076-minimum-window-substring) |
 | [0132-palindrome-partitioning-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0132-palindrome-partitioning-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -113,6 +114,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0132-palindrome-partitioning-ii) |
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
 | [0458-poor-pigs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0458-poor-pigs) |
