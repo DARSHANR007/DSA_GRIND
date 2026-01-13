@@ -98,6 +98,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0066-plus-one](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0416-partition-equal-subset-sum) |
 | [0517-super-washing-machines](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0517-super-washing-machines) |
 | [0778-swim-in-rising-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0778-swim-in-rising-water) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -127,6 +128,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0198-house-robber](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0416-partition-equal-subset-sum) |
 | [0458-poor-pigs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0458-poor-pigs) |
 | [0583-delete-operation-for-two-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
