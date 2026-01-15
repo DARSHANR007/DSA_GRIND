@@ -40,6 +40,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0076-minimum-window-substring) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1975-maximum-matrix-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2054-two-best-non-overlapping-events) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Binary Search
@@ -143,6 +145,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2054-two-best-non-overlapping-events) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Greedy
 |  |
 | ------- |
@@ -157,6 +160,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +193,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0458-poor-pigs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0458-poor-pigs) |
 | [1390-four-divisors](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1390-four-divisors) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Geometry
 |  |
