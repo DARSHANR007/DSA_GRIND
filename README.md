@@ -102,6 +102,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0416-partition-equal-subset-sum) |
 | [0517-super-washing-machines](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0517-super-washing-machines) |
@@ -127,6 +128,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0778-swim-in-rising-water) |
@@ -140,6 +142,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0072-edit-distance](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0416-partition-equal-subset-sum) |
