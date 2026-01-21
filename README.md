@@ -204,6 +204,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [0043-multiply-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0172-factorial-trailing-zeroes) |
 | [0458-poor-pigs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0458-poor-pigs) |
 | [1390-four-divisors](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1390-four-divisors) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
