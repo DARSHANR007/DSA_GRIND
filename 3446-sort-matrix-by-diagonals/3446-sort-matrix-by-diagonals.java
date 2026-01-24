@@ -3,7 +3,6 @@ class Solution {
     public int[][] sortMatrix(int[][] grid) {
         int n = grid.length;
 
-        // 1️⃣ Bottom-left triangle + main diagonal
         // Sort diagonals in NON-INCREASING (descending) order
         for (int startRow = 0; startRow < n; startRow++) {
             PriorityQueue<Integer> pq =
@@ -28,7 +27,6 @@ class Solution {
             }
         }
 
-        // 2️⃣ Top-right triangle
         // Sort diagonals in NON-DECREASING (ascending) order
         for (int startCol = 1; startCol < n; startCol++) {
             PriorityQueue<Integer> pq = new PriorityQueue<>();
