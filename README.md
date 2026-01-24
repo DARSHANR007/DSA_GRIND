@@ -120,6 +120,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1162-as-far-from-land-as-possible](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1162-as-far-from-land-as-possible) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1390-four-divisors](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -225,6 +226,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0066-plus-one](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0172-factorial-trailing-zeroes) |
 | [0458-poor-pigs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0458-poor-pigs) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1390-four-divisors](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1390-four-divisors) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
