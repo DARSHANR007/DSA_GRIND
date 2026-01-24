@@ -229,6 +229,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3516-find-closest-person](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3516-find-closest-person) |
 ## Geometry
 |  |
 | ------- |
