@@ -32,6 +32,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0043-multiply-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0132-palindrome-partitioning-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -154,6 +155,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0300-longest-increasing-subsequence) |
