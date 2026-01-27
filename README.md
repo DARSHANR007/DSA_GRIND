@@ -99,12 +99,14 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0743-network-delay-time) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Array
 |  |
 | ------- |
@@ -297,4 +299,5 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
