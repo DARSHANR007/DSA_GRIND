@@ -1,50 +1,62 @@
 class Solution {
+
     public String minWindow(String s, String t) {
-        int n = s.length();
-        int m = t.length();
 
-        if (n < m) {
-            return "";
-        }
+        if (s.length() < t.length()) return "";
 
-        int[] need = new int[128]; // to store frequency of characters in t
-        int[] window = new int[128]; // to store frequency in current window
-
+        // Required frequencies
+        HashMap<Character, Integer> need = new HashMap<>();
         for (char c : t.toCharArray()) {
-            need[c]++;
+            need.put(c, need.getOrDefault(c, 0) + 1);
         }
 
-        int left = 0, right = 0;
+        // Current window frequencies
+        HashMap<Character, Integer> check = new HashMap<>();
+
+        int left = 0;
+        int formed = 0;
+        int required = need.size();
+
         int minLen = Integer.MAX_VALUE;
         int start = 0;
 
-        int valid = 0; // to count how many required characters are matched
+        for (int right = 0; right < s.length(); right++) {
 
-        while (right < n) {
+            // 1. Expand window
             char c = s.charAt(right);
-            window[c]++;
-            if (need[c] > 0 && window[c] <= need[c]) {
-                valid++;
+            check.put(c, check.getOrDefault(c, 0) + 1);
+
+            // 2. Increase formed ONLY when a type is satisfied
+            if (need.containsKey(c) &&
+                check.get(c).intValue() == need.get(c).intValue()) {
+                formed++;
             }
 
-            // Shrink window if we matched all required characters
-            while (valid == m) {
+            // 3. Shrink only when fully formed
+            while (formed == required) {
+
+                // Update answer
                 if (right - left + 1 < minLen) {
                     minLen = right - left + 1;
                     start = left;
                 }
 
-                char d = s.charAt(left);
-                if (need[d] > 0 && window[d] <= need[d]) {
-                    valid--;
+                // Shrink from left
+                char leftChar = s.charAt(left);
+                check.put(leftChar, check.get(leftChar) - 1);
+
+                // If removing breaks condition, update formed
+                if (need.containsKey(leftChar) &&
+                    check.get(leftChar) < need.get(leftChar)) {
+                    formed--;
                 }
-                window[d]--;
+
                 left++;
             }
-
-            right++;
         }
 
-        return minLen == Integer.MAX_VALUE ? "" : s.substring(start, start + minLen);
+        return minLen == Integer.MAX_VALUE
+                ? ""
+                : s.substring(start, start + minLen);
     }
 }
