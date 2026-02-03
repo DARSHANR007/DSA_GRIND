@@ -160,6 +160,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3446-sort-matrix-by-diagonals) |
+| [3637-trionic-array-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Search
 |  |
