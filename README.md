@@ -122,6 +122,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0066-plus-one) |
@@ -201,6 +202,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0517-super-washing-machines](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0517-super-washing-machines) |
@@ -218,6 +220,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
