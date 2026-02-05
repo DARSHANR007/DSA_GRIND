@@ -123,6 +123,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [0001-two-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0300-longest-increasing-subsequence) |
@@ -225,6 +226,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0056-merge-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1877-minimize-maximum-pair-sum-in-array) |
