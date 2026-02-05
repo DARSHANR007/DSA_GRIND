@@ -128,6 +128,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0300-longest-increasing-subsequence](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0416-partition-equal-subset-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0517-super-washing-machines](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0517-super-washing-machines) |
 | [0560-subarray-sum-equals-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0713-subarray-product-less-than-k) |
@@ -200,6 +201,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0517-super-washing-machines](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0517-super-washing-machines) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1975-maximum-matrix-sum) |
@@ -223,6 +225,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
