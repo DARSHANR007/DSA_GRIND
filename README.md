@@ -55,6 +55,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3634-minimum-removals-to-balance-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -163,6 +164,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3446-sort-matrix-by-diagonals) |
+| [3634-minimum-removals-to-balance-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Search
@@ -239,6 +241,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3446-sort-matrix-by-diagonals) |
+| [3634-minimum-removals-to-balance-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3634-minimum-removals-to-balance-array) |
 ## Union Find
 |  |
 | ------- |
