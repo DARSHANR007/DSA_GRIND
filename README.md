@@ -164,6 +164,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2348-number-of-zero-filled-subarrays](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2399-check-distances-between-same-letters) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -205,6 +206,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2054-two-best-non-overlapping-events](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Greedy
 |  |
