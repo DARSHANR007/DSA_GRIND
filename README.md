@@ -167,6 +167,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3446-sort-matrix-by-diagonals) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3634-minimum-removals-to-balance-array) |
@@ -207,6 +208,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Greedy
 |  |
