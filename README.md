@@ -127,6 +127,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0001-two-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0198-house-robber) |
@@ -330,6 +331,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0077-combinations) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Search Tree
