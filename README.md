@@ -32,6 +32,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2395-find-subarrays-with-equal-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2399-check-distances-between-same-letters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -173,6 +174,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [3634-minimum-removals-to-balance-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3719-longest-balanced-subarray-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -228,6 +230,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0713-subarray-product-less-than-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0713-subarray-product-less-than-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1895-largest-magic-square) |
+| [3719-longest-balanced-subarray-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -369,4 +372,12 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0739-daily-temperatures) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
