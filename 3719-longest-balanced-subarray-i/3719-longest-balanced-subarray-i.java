@@ -13,7 +13,6 @@ class Solution {
             for (int j = i; j < n; j++) {
                 int current = nums[j];
 
-                // Categorize the number
                 if (current % 2 == 0) {
                     distinctEvens.add(current);
                 } else {
