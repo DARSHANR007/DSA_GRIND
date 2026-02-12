@@ -33,6 +33,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2395-find-subarrays-with-equal-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2399-check-distances-between-same-letters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
@@ -50,6 +51,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2351-first-letter-to-appear-twice](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2399-check-distances-between-same-letters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3713-longest-balanced-substring-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -359,6 +361,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -367,6 +370,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2351-first-letter-to-appear-twice) |
+| [3713-longest-balanced-substring-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
