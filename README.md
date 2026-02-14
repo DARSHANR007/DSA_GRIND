@@ -146,6 +146,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0713-subarray-product-less-than-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0778-swim-in-rising-water) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0997-find-the-town-judge) |
@@ -224,6 +225,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0517-super-washing-machines](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0517-super-washing-machines) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1975-maximum-matrix-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -250,6 +252,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0056-merge-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -369,6 +372,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Counting
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2351-first-letter-to-appear-twice](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2351-first-letter-to-appear-twice) |
 | [3713-longest-balanced-substring-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
