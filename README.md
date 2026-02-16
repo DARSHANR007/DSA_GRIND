@@ -372,6 +372,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0190-reverse-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -392,6 +393,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
