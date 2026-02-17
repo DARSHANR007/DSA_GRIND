@@ -310,6 +310,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [0043-multiply-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0067-add-binary) |
+| [1603-design-parking-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1603-design-parking-system) |
 ## Tree
 |  |
 | ------- |
@@ -378,6 +379,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1603-design-parking-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1603-design-parking-system) |
 | [2351-first-letter-to-appear-twice](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2351-first-letter-to-appear-twice) |
 | [3713-longest-balanced-substring-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
@@ -399,4 +401,8 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3719-longest-balanced-subarray-i) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
