@@ -35,6 +35,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3719-longest-balanced-subarray-i) |
+| [3829-design-ride-sharing-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3829-design-ride-sharing-system) |
 ## String
 |  |
 | ------- |
@@ -407,4 +408,13 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1603-design-parking-system) |
+| [3829-design-ride-sharing-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3829-design-ride-sharing-system) |
+## Queue
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3829-design-ride-sharing-system) |
+## Data Stream
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3829-design-ride-sharing-system) |
 <!---LeetCode Topics End-->
