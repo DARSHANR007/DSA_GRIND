@@ -24,6 +24,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [0001-two-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0076-minimum-window-substring) |
+| [0355-design-twitter](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -112,6 +113,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0355-design-twitter) |
 | [0743-network-delay-time](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0778-swim-in-rising-water) |
 | [2054-two-best-non-overlapping-events](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2054-two-best-non-overlapping-events) |
@@ -407,6 +409,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0355-design-twitter) |
 | [1603-design-parking-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1603-design-parking-system) |
 | [3829-design-ride-sharing-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3829-design-ride-sharing-system) |
 ## Queue
@@ -417,4 +420,8 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [3829-design-ride-sharing-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3829-design-ride-sharing-system) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
