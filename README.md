@@ -79,6 +79,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1905-count-sub-islands](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
@@ -96,6 +97,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1905-count-sub-islands](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
@@ -165,6 +167,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1895-largest-magic-square) |
+| [1905-count-sub-islands](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -284,6 +287,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1895-largest-magic-square](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1895-largest-magic-square) |
+| [1905-count-sub-islands](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1975-maximum-matrix-sum) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
@@ -425,4 +429,8 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0355-design-twitter) |
+## Union-Find
+|  |
+| ------- |
+| [1905-count-sub-islands](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1905-count-sub-islands) |
 <!---LeetCode Topics End-->
