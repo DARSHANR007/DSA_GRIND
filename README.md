@@ -138,6 +138,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0011-container-with-most-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0066-plus-one) |
@@ -193,6 +194,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0713-subarray-product-less-than-k) |
