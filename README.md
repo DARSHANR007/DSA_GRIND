@@ -101,6 +101,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
+| [2258-escape-the-spreading-fire](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2258-escape-the-spreading-fire) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Graph
@@ -177,6 +178,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
+| [2258-escape-the-spreading-fire](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2258-escape-the-spreading-fire) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -203,6 +205,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2054-two-best-non-overlapping-events) |
+| [2258-escape-the-spreading-fire](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2258-escape-the-spreading-fire) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -295,6 +298,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1975-maximum-matrix-sum) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
+| [2258-escape-the-spreading-fire](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2258-escape-the-spreading-fire) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3446-sort-matrix-by-diagonals) |
