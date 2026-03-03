@@ -50,6 +50,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0940-distinct-subsequences-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2351-first-letter-to-appear-twice](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2399-check-distances-between-same-letters) |
@@ -327,6 +328,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [0043-multiply-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0067-add-binary) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1603-design-parking-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1603-design-parking-system) |
 ## Tree
 |  |
@@ -441,4 +443,8 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [1905-count-sub-islands](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1905-count-sub-islands) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
