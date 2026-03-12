@@ -180,6 +180,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2054-two-best-non-overlapping-events) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
+| [2105-watering-plants-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2105-watering-plants-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2258-escape-the-spreading-fire](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2258-escape-the-spreading-fire) |
@@ -264,6 +265,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2105-watering-plants-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2105-watering-plants-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
@@ -334,6 +336,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0067-add-binary](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0067-add-binary) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1603-design-parking-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1603-design-parking-system) |
+| [2105-watering-plants-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2105-watering-plants-ii) |
 ## Tree
 |  |
 | ------- |
