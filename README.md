@@ -31,6 +31,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0997-find-the-town-judge) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2351-first-letter-to-appear-twice) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2399-check-distances-between-same-letters) |
@@ -181,6 +182,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2054-two-best-non-overlapping-events](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-watering-plants](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2079-watering-plants) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
@@ -417,6 +419,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1603-design-parking-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1603-design-parking-system) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2351-first-letter-to-appear-twice) |
 | [3713-longest-balanced-substring-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
