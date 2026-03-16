@@ -60,6 +60,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2399-check-distances-between-same-letters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2399-check-distances-between-same-letters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3713-longest-balanced-substring-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
@@ -344,6 +345,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3516-find-closest-person](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3516-find-closest-person) |
 ## Geometry
 |  |
@@ -431,6 +433,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1603-design-parking-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1603-design-parking-system) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2351-first-letter-to-appear-twice) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3713-longest-balanced-substring-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
