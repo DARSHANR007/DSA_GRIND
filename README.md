@@ -48,6 +48,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0115-distinct-subsequences](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0132-palindrome-partitioning-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0583-delete-operation-for-two-strings) |
+| [0696-count-binary-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0940-distinct-subsequences-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -267,6 +268,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0011-container-with-most-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0696-count-binary-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2105-watering-plants-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2105-watering-plants-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
