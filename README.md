@@ -189,6 +189,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2054-two-best-non-overlapping-events](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-watering-plants](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2079-watering-plants) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 | [2105-watering-plants-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2105-watering-plants-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -265,6 +266,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1975-maximum-matrix-sum) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3075-maximize-happiness-of-selected-children) |
