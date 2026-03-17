@@ -56,6 +56,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0988-smallest-string-starting-from-leaf](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2351-first-letter-to-appear-twice](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2399-check-distances-between-same-letters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -246,6 +247,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2054-two-best-non-overlapping-events) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -262,6 +264,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1975-maximum-matrix-sum) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3075-maximize-happiness-of-selected-children) |
