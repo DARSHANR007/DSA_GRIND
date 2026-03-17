@@ -90,6 +90,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1559-detect-cycles-in-2d-grid](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2092-find-all-people-with-secret](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
@@ -109,6 +110,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1559-detect-cycles-in-2d-grid](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2092-find-all-people-with-secret](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2092-find-all-people-with-secret) |
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2258-escape-the-spreading-fire](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2258-escape-the-spreading-fire) |
@@ -302,6 +304,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2054-two-best-non-overlapping-events) |
+| [2092-find-all-people-with-secret](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2092-find-all-people-with-secret) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -416,6 +419,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Graph Theory
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2092-find-all-people-with-secret) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -483,6 +487,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [1905-count-sub-islands](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1905-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2092-find-all-people-with-secret) |
 ## Recursion
 |  |
 | ------- |
