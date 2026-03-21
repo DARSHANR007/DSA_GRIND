@@ -153,6 +153,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0134-gas-station) |
@@ -232,6 +233,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0132-palindrome-partitioning-ii) |
@@ -287,6 +289,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0011-container-with-most-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0042-trapping-rain-water) |
 | [0696-count-binary-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2105-watering-plants-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2105-watering-plants-ii) |
@@ -447,12 +450,14 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0739-daily-temperatures) |
