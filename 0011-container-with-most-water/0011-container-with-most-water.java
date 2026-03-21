@@ -1,32 +1,35 @@
 class Solution {
+
     public int maxArea(int[] height) {
+        int n = height.length;
 
-        int left=0;
+        int left = 0;
 
-        int right=height.length-1;
+        int right = n - 1;
 
+        int maxi = -1;
 
-        int capacity=-1;
+        int smaller = -1;
 
+        while (left < right) {
 
+            int curr=-1;
 
-        while(left<=right){
-
-
-            int maxi=Math.min(height[left],height[right]);
-            int width=right-left;
-            capacity=Math.max(capacity,maxi*width);
-
-            if(height[left] < height[right]){
+            if (height[left] < height[right]) {
+                curr = (right - left) * height[left];
                 left++;
-            }
-            
-            else{
+            } else if (height[right] < height[left]) {
+                 curr = (right - left) * height[right];
+                right--;
+            } else {
+                 curr = (right - left) * height[right];
+                left++;
                 right--;
             }
- 
 
+            maxi = Math.max(maxi, curr);
         }
-        return capacity;
+
+        return maxi;
     }
 }
