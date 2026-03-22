@@ -50,6 +50,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0115-distinct-subsequences](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0132-palindrome-partitioning-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0940-distinct-subsequences-ii) |
@@ -245,6 +246,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0416-partition-equal-subset-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0416-partition-equal-subset-sum) |
 | [0458-poor-pigs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0458-poor-pigs) |
 | [0583-delete-operation-for-two-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0940-distinct-subsequences-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1162-as-far-from-land-as-possible) |
@@ -266,6 +268,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0517-super-washing-machines](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0517-super-washing-machines) |
+| [0678-valid-parenthesis-string](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0678-valid-parenthesis-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1975-maximum-matrix-sum) |
@@ -453,6 +456,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0042-trapping-rain-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
