@@ -43,6 +43,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0072-edit-distance) |
@@ -150,6 +151,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [0001-two-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -501,4 +503,8 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
