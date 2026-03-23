@@ -38,6 +38,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3713-longest-balanced-substring-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3719-longest-balanced-subarray-i) |
 | [3829-design-ride-sharing-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3829-design-ride-sharing-system) |
@@ -66,6 +67,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3713-longest-balanced-substring-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
@@ -75,6 +77,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3634-minimum-removals-to-balance-array) |
 ## Depth-First Search
 |  |
