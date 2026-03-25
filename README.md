@@ -77,6 +77,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0076-minimum-window-substring](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0713-subarray-product-less-than-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1052-grumpy-bookstore-owner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1052-grumpy-bookstore-owner) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -186,6 +187,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0997-find-the-town-judge) |
+| [1052-grumpy-bookstore-owner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1052-grumpy-bookstore-owner) |
 | [1162-as-far-from-land-as-possible](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1162-as-far-from-land-as-possible) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
