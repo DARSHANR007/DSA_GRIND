@@ -60,6 +60,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0940-distinct-subsequences-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0940-distinct-subsequences-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1208-get-equal-substrings-within-budget](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1208-get-equal-substrings-within-budget) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
@@ -78,6 +79,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0713-subarray-product-less-than-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0713-subarray-product-less-than-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1052-grumpy-bookstore-owner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1052-grumpy-bookstore-owner) |
+| [1208-get-equal-substrings-within-budget](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1208-get-equal-substrings-within-budget) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -238,6 +240,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0778-swim-in-rising-water) |
+| [1208-get-equal-substrings-within-budget](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1208-get-equal-substrings-within-budget) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -296,6 +299,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0713-subarray-product-less-than-k) |
+| [1208-get-equal-substrings-within-budget](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1208-get-equal-substrings-within-budget) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1895-largest-magic-square) |
 | [3719-longest-balanced-subarray-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3719-longest-balanced-subarray-i) |
