@@ -100,6 +100,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1462-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -120,6 +121,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1162-as-far-from-land-as-possible](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1162-as-far-from-land-as-possible) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1462-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -437,6 +439,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0210-course-schedule-ii) |
+| [1462-course-schedule-iv](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1462-course-schedule-iv) |
 ## Combinatorics
 |  |
 | ------- |
@@ -444,6 +447,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Graph Theory
 |  |
 | ------- |
+| [1462-course-schedule-iv](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1462-course-schedule-iv) |
 | [2092-find-all-people-with-secret](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2092-find-all-people-with-secret) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
