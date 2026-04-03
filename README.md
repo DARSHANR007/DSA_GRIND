@@ -71,6 +71,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3340-check-balanced-string](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3340-check-balanced-string) |
 | [3713-longest-balanced-substring-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
