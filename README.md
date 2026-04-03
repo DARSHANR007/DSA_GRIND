@@ -94,6 +94,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0210-course-schedule-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0778-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -405,6 +406,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0104-maximum-depth-of-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -420,6 +422,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0104-maximum-depth-of-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
