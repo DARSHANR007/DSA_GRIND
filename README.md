@@ -28,6 +28,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0496-next-greater-element-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0997-find-the-town-judge) |
@@ -79,6 +80,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [0076-minimum-window-substring](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0992-subarrays-with-k-different-integers) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1052-grumpy-bookstore-owner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1052-grumpy-bookstore-owner) |
@@ -195,6 +197,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0739-daily-temperatures](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0904-fruit-into-baskets) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0992-subarrays-with-k-different-integers) |
