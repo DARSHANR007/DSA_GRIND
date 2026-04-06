@@ -229,6 +229,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2395-find-subarrays-with-equal-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2399-check-distances-between-same-letters) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -303,6 +304,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Prefix Sum
