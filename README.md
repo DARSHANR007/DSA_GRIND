@@ -29,6 +29,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0560-subarray-sum-equals-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0997-find-the-town-judge) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -78,6 +79,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [0076-minimum-window-substring](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0992-subarrays-with-k-different-integers) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1052-grumpy-bookstore-owner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1208-get-equal-substrings-within-budget) |
@@ -195,6 +197,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0875-koko-eating-bananas](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0875-koko-eating-bananas) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0997-find-the-town-judge) |
 | [1052-grumpy-bookstore-owner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1052-grumpy-bookstore-owner) |
@@ -480,6 +483,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0992-subarrays-with-k-different-integers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0992-subarrays-with-k-different-integers) |
 | [1603-design-parking-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1603-design-parking-system) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2351-first-letter-to-appear-twice) |
