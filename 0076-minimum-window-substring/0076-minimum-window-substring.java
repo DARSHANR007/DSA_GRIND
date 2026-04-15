@@ -1,59 +1,51 @@
+import java.util.HashMap;
+
 class Solution {
-
     public String minWindow(String s, String t) {
-
         if (s.length() < t.length()) return "";
 
+        HashMap<Character, Integer> hash = new HashMap<>();
         HashMap<Character, Integer> need = new HashMap<>();
+
         for (char c : t.toCharArray()) {
             need.put(c, need.getOrDefault(c, 0) + 1);
         }
 
-        HashMap<Character, Integer> check = new HashMap<>();
-
+        int required = t.length(); 
+        int formed = 0; 
         int left = 0;
-        int formed = 0;               // total matched characters
-        int required = t.length();    // total required characters
-
-        int minLen = Integer.MAX_VALUE;
+        int n = s.length();
+        int mini = Integer.MAX_VALUE;
         int start = 0;
 
-        for (int right = 0; right < s.length(); right++) {
-
+        for (int right = 0; right < n; right++) {
             char c = s.charAt(right);
+            
+            hash.put(c, hash.getOrDefault(c, 0) + 1);
 
-            // ALWAYS add to window
-            check.put(c, check.getOrDefault(c, 0) + 1);
-
-            // Increase formed ONLY if this char was still needed
-            if (need.containsKey(c) &&
-                check.get(c) <= need.get(c)) {
+            if (need.containsKey(c) && hash.get(c) <= need.get(c)) {
                 formed++;
             }
 
-            // Shrink only when fully formed
             while (formed == required) {
-
-                if (right - left + 1 < minLen) {
-                    minLen = right - left + 1;
+                if (right - left + 1 < mini) {
+                    mini = right - left + 1;
                     start = left;
                 }
 
-                char leftChar = s.charAt(left);
-                check.put(leftChar, check.get(leftChar) - 1);
-
-                // If removal breaks requirement, reduce formed
-                if (need.containsKey(leftChar) &&
-                    check.get(leftChar) < need.get(leftChar)) {
+                char lefty = s.charAt(left);
+                
+                if (need.containsKey(lefty) && hash.get(lefty).equals(need.get(lefty))) {
                     formed--;
                 }
-
+                
+                hash.put(lefty, hash.get(lefty) - 1);
                 left++;
             }
         }
 
-        return minLen == Integer.MAX_VALUE
+        return mini == Integer.MAX_VALUE
                 ? ""
-                : s.substring(start, start + minLen);
+                : s.substring(start, start + mini);
     }
 }
