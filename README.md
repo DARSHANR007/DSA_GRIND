@@ -395,6 +395,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2348-number-of-zero-filled-subarrays](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3516-find-closest-person](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3516-find-closest-person) |
+| [3783-mirror-distance-of-an-integer](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3783-mirror-distance-of-an-integer) |
 ## Geometry
 |  |
 | ------- |
