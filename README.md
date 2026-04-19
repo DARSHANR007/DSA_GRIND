@@ -288,6 +288,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2054-two-best-non-overlapping-events](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2054-two-best-non-overlapping-events) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2376-count-special-integers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2376-count-special-integers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -393,6 +394,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2101-detonate-the-maximum-bombs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2376-count-special-integers](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2376-count-special-integers) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3516-find-closest-person](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3783-mirror-distance-of-an-integer) |
