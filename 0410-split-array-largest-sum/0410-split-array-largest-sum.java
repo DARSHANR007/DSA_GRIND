@@ -1,59 +1,41 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
+        int low = 0, high = 0;
 
-        int high=0;
-
-        int low=0;
-
-     int best=0;
-
-
-        for(int num:nums){
-            high+=num;
-            low=Math.max(low,num);
+        for (int num : nums) {
+            low = Math.max(low, num);
+            high += num;
         }
 
-        while(low <=high){
-            int mid=low+(high-low)/2;
+        int best = high;
 
-            if(bs(nums,k,mid)){
-                best=mid;
-                high=mid-1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
 
-            }
-            else{
-                low=mid+1;
+            if (check(nums, mid, k)) {
+                best = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
             }
         }
 
         return best;
-
-        
-
-        
     }
 
+    public boolean check(int[] nums, int cap, int k) {
+        int count = 1;
+        int sum = 0;
 
-    public boolean bs(int[] nums, int k , int cap){
-        int count=1;
+        for (int num : nums) {
+            sum += num;
 
-        int sum=0;
-
-        for(int num:nums){
-
-            if(sum+num >cap){
+            if (sum > cap) {
                 count++;
-                sum=num;
+                sum = num;
             }
-            else{
-                sum+=num;
-            }
-
-            
-            if(count >k) return false;
-
         }
 
-        return true;
+        return count <= k;
     }
 }
