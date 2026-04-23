@@ -38,6 +38,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2351-first-letter-to-appear-twice](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2351-first-letter-to-appear-twice) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2399-check-distances-between-same-letters) |
+| [2615-sum-of-distances](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2615-sum-of-distances) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -233,6 +234,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2395-find-subarrays-with-equal-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2399-check-distances-between-same-letters) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2615-sum-of-distances](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2615-sum-of-distances) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -322,6 +324,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [1208-get-equal-substrings-within-budget](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1208-get-equal-substrings-within-budget) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1895-largest-magic-square) |
+| [2615-sum-of-distances](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2615-sum-of-distances) |
 | [3719-longest-balanced-subarray-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
