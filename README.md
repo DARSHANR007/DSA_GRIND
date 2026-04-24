@@ -50,6 +50,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0072-edit-distance) |
@@ -505,6 +506,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0503-next-greater-element-ii) |
