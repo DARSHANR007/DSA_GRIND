@@ -51,6 +51,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0072-edit-distance) |
@@ -270,6 +271,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0115-distinct-subsequences) |
@@ -507,6 +509,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0503-next-greater-element-ii) |
