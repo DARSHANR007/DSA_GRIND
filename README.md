@@ -203,6 +203,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0713-subarray-product-less-than-k](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0778-swim-in-rising-water) |
+| [0853-car-fleet](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0904-fruit-into-baskets) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -353,6 +354,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0015-3sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0056-merge-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0853-car-fleet](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0853-car-fleet) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -521,6 +523,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0503-next-greater-element-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -529,6 +532,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0496-next-greater-element-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0853-car-fleet) |
 ## Divide and Conquer
 |  |
 | ------- |
