@@ -59,6 +59,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0076-minimum-window-substring](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0132-palindrome-partitioning-ii) |
+| [0402-remove-k-digits](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0402-remove-k-digits) |
 | [0583-delete-operation-for-two-strings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0696-count-binary-substrings) |
@@ -307,6 +308,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | ------- |
 | [0011-container-with-most-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0517-super-washing-machines](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0517-super-washing-machines) |
@@ -514,6 +516,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [0020-valid-parentheses](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0678-valid-parenthesis-string) |
@@ -522,6 +525,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0739-daily-temperatures) |
