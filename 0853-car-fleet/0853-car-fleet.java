@@ -10,15 +10,17 @@ class Solution {
 
         Arrays.sort(cars, (a, b) -> Double.compare(b[0], a[0]));
 
-        Deque<Double> stack = new ArrayDeque<>();
+        int fleets = 0;
+        double maxTime = 0;
 
         for (double[] car : cars) {
             double time = car[1];
-            if (stack.isEmpty() || time > stack.peek()) {
-                stack.push(time);
+            if (time > maxTime) {
+                maxTime = time;
+                fleets++;
             }
         }
 
-        return stack.size();
+        return fleets;
     }
 }
