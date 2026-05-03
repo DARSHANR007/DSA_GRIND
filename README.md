@@ -47,6 +47,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [3713-longest-balanced-substring-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3829-design-ride-sharing-system](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3829-design-ride-sharing-system) |
 ## String
 |  |
@@ -259,6 +260,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
 |  |
 | ------- |
