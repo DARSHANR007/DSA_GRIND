@@ -167,6 +167,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -255,6 +256,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3446-sort-matrix-by-diagonals) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -329,6 +331,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -374,6 +377,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [3074-apple-redistribution-into-boxes](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3446-sort-matrix-by-diagonals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3446-sort-matrix-by-diagonals) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3634-minimum-removals-to-balance-array) |
 ## Union Find
 |  |
@@ -400,6 +404,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3446-sort-matrix-by-diagonals) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DARSHANR007/DSA_GRIND/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Math
 |  |
