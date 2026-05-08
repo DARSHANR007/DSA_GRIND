@@ -495,6 +495,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/DARSHANR007/DSA_GRIND/tree/master/0743-network-delay-time) |
 | [1462-course-schedule-iv](https://github.com/DARSHANR007/DSA_GRIND/tree/master/1462-course-schedule-iv) |
 | [2092-find-all-people-with-secret](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2092-find-all-people-with-secret) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/DARSHANR007/DSA_GRIND/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
