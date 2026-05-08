@@ -1,66 +1,54 @@
-import java.util.*;
-
-public class Solution {
-
-    class Network {
-        int destination;
-        int cost;
-
-        Network(int destination, int cost) {
-            this.destination = destination;
-            this.cost = cost;
-        }
-    }
-
-    List<List<Network>> graph = new ArrayList<>();
-
+class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
+
+        // Build adjacency list (1-indexed, so size n+1)
+        List<List<int[]>> adj = new ArrayList<>();
         for (int i = 0; i <= n; i++) {
-            graph.add(new ArrayList<>());
+            adj.add(new ArrayList<>());
         }
 
         for (int[] time : times) {
-            int source = time[0];
-            int destination = time[1];
-            int cost = time[2];
-            graph.get(source).add(new Network(destination, cost));
+            int start = time[0];
+            int end   = time[1];
+            int cost  = time[2];
+            adj.get(start).add(new int[]{end, cost});
         }
 
-        int[] distances = dijkstra(graph, n, k);
+        // dist array — 1-indexed
+        int[] dist = new int[n + 1];
+        Arrays.fill(dist, Integer.MAX_VALUE);
+        dist[k] = 0;
 
-        int maxTime = 0;
-        for (int i = 1; i <= n; i++) {
-            if (distances[i] == Integer.MAX_VALUE) return -1;
-            maxTime = Math.max(maxTime, distances[i]);
-        }
-
-        return maxTime;
-    }
-
-    private int[] dijkstra(List<List<Network>> graph, int n, int start) {
-        int[] distances = new int[n + 1];
-        Arrays.fill(distances, Integer.MAX_VALUE);
-        distances[start] = 0;
-
-        PriorityQueue<Network> pq = new PriorityQueue<>(Comparator.comparingInt(a -> a.cost));
-        pq.add(new Network(start, 0));
+        // Min-heap on distance (index 1 of the pair)
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[1] - b[1]);
+        pq.offer(new int[]{k, 0});
 
         while (!pq.isEmpty()) {
-            Network curr = pq.poll();
-            int node = curr.destination;
-            int cost = curr.cost;
+            int[] curr   = pq.poll();
+            int dest     = curr[0];
+            int weight   = curr[1];
 
-            if (cost > distances[node]) continue;
+            // Stale entry check — we already found a shorter path to dest
+            if (weight > dist[dest]) continue;
 
-            for (Network neighbour : graph.get(node)) {
-                int newCost = cost + neighbour.cost;
-                if (newCost < distances[neighbour.destination]) {
-                    distances[neighbour.destination] = newCost;
-                    pq.add(new Network(neighbour.destination, newCost));
+            for (int[] neighbour : adj.get(dest)) {
+                int nDest = neighbour[0];
+                int nCost = neighbour[1];
+
+                if (weight + nCost < dist[nDest]) {
+                    dist[nDest] = weight + nCost;
+                    pq.offer(new int[]{nDest, dist[nDest]});
                 }
             }
         }
 
-        return distances;
+        // Find the maximum distance across all nodes (answer = last node to receive signal)
+        int maxi = -1;
+        for (int i = 1; i <= n; i++) {
+            if (dist[i] == Integer.MAX_VALUE) return -1;  // unreachable node
+            maxi = Math.max(maxi, dist[i]);
+        }
+
+        return maxi;
     }
 }
